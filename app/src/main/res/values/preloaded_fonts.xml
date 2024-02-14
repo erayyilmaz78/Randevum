@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/alegreya_sc_bold_italic</item>
+        <item>@font/alice</item>
+        <item>@font/allerta</item>
+        <item>@font/andika</item>
+        <item>@font/boogaloo</item>
+        <item>@font/caladea</item>
+        <item>@font/caladea_bold</item>
+        <item>@font/cormorant_bold</item>
+        <item>@font/eczar_medium</item>
+        <item>@font/eczar_semibold</item>
+        <item>@font/graduate</item>
+        <item>@font/tomorrow_bold</item>
+        <item>@font/tomorrow_extrabold</item>
+        <item>@font/tomorrow_medium</item>
+    </array>
+</resources>

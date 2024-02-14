@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#00097D"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/recyclerKuaforImage"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:scaleType="fitXY">
+
+    </ImageButton>
+    <TextView
+        android:id="@+id/recyclerKuaforName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KUAFOR ADI"
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        ></TextView>
+    <TextView
+        android:id="@+id/recyclerKuaforAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KUAFOR ADRES"
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        ></TextView>
+    <TextView
+        android:id="@+id/recyclerKuaforPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Telefon: "
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        ></TextView>
+</LinearLayout>

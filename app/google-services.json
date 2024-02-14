@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841502585614",
+    "project_id": "randevum-f1ebb",
+    "storage_bucket": "randevum-f1ebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841502585614:android:cec18db176d7ddfb379d5f",
+        "android_client_info": {
+          "package_name": "com.erayyilmaz.randevumm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZgH0DzmDWdjpHnCeWwTK8VlAyUV9rC8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
